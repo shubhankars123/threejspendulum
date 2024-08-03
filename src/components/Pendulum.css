@@ -1,0 +1,21 @@
+/* src/App.css */
+canvas {
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+  
+  #buttons {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    z-index: 1;
+  }
+  
+  button {
+    margin: 5px;
+    padding: 10px;
+    font-size: 16px;
+  }
+  
